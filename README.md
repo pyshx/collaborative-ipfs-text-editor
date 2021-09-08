@@ -35,6 +35,9 @@ Using a modern browser that supports WebRTC, like a recent version of Chrome or 
 
 This Demo uses WebRTC to establish the connections between nodes. WebRTC is a CPU intensive protocol and not all Browsers will behave correctly, depending on their implementation of WebRTC or the resources available on the machine that they are running. This is a known issue and something the [js-ipfs team is looking at alternatives to solve](https://github.com/ipfs/js-ipfs/issues/962).
 
+## Future plans
+
+I plan to make my own collaborative code-editor for command line in future.
 
 ## License
 
